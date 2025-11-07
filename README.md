@@ -30,24 +30,40 @@ Each program is written for clarity and understanding, focusing on how data is o
 
 Data-Structures-and-Algorithms
 │
-├── Arrays/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Tree/
-├── Graph/
-├── Sorting/
-├── Searching/
+├── Arrays
+
+├── LinkedList
+
+├── Stack
+
+├── Queue
+
+├── Tree
+
+├── Graph
+
+├── Sorting
+
+├── Searching
+
 └── README.md
 
 ---
 
-### ⚙️ How to Run
-1. Open any `.cpp` file in your preferred IDE (VS Code / Dev C++ / Code::Blocks).  
-2. Compile and run using:
-   ```bash
-   g++ filename.cpp -o output
-   ./output
+🧩 How to Run
+
+1. Clone this repository
+
+🔗 git clone https://github.com/moranpriya/Data-Structures-and-Algorithm-C-.git
+   cd Data-Structures-and-Algorithm-C-
+
+2. Open any .cpp file in your preferred IDE (VS Code, Dev C++, or Code::Blocks).
+
+3. Compile and run using the terminal:
+
+   g++ filename.cpp -o output./output
+
+---
 
 🎯 Learning Outcome
 
